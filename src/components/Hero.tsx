@@ -94,8 +94,7 @@ export default function Hero() {
                   ))}
                 </div>
                 <div className="py-6">
-                  <a
-                    href="#"
+                  <a  href="https://drive.google.com/uc?id=1W33Wgbfgu4yoqv3wa2KZY57D0Tuakm42&export=download" download={"Manav_Rupani.pdf"}
                     className="-mx-3 block rounded-lg px-3 py-2.5 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
                   >
                     Resume
